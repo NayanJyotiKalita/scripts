@@ -39,10 +39,13 @@ So we configure and it runs successfully:
 
 <img width="1109" height="113" alt="Image" src="https://github.com/user-attachments/assets/c3e476ab-8934-4a74-81bf-2c39abab8cef" />
 
+## Listing ec2 instances
 <img width="940" height="464" alt="Image" src="https://github.com/user-attachments/assets/7f6a365e-0a22-4912-9626-7ac0d4ea667f" />
 
+## Listing VPCs
 <img width="859" height="594" alt="Image" src="https://github.com/user-attachments/assets/f10cc7b0-0856-4d83-a98c-8814459ac10e" />
 
+## Listing S3 buckets
 <img width="874" height="302" alt="Image" src="https://github.com/user-attachments/assets/2b3969e8-8ff6-487b-87a7-2400b0475e74" />
 
 

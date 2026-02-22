@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #####################################################################
-# Author: Dhama Dhora
+# Author: Nayan Jyoti Kalita
 # Version: v0.0.1
 #
 # Script to calculate the area of various geometric shapes.
